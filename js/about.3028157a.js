@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpast"]=self["webpackChunkpast"]||[]).push([[443],{898:function(a,n,t){t.r(n),t.d(n,{default:function(){return h}});var s=t(252),u=t(365);const e={class:"about"},r=(0,s._)("img",{src:u,alt:"Logo Pastelería"},null,-1),c=(0,s._)("h1",null,"This is an about page",-1),l=[r,c];function i(a,n){return(0,s.wg)(),(0,s.iD)("div",e,l)}var o=t(744);const f={},p=(0,o.Z)(f,[["render",i]]);var h=p}}]);
+//# sourceMappingURL=about.3028157a.js.map
